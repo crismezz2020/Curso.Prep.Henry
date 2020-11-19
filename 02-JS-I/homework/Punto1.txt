@@ -1,0 +1,21 @@
+
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+Respuestas del punto 1
+
+Variables: Son cajitas cada una con su nombre y tipo (String, number, etc), donde vamos guardando datos para usarlos mas adelante.
+
+Strings: Es un formato que tienen los datos que mencionamos anteriormente, se traduce "cadena", o sea porque es un trencito de caracteres. Los valores Strings son del tipo texto o sea que no se pueden sumar matematicamente.
+
+Funciones: Las funciones se usan para evitar repetir codigo en la programación, Xej reemplazando valores concretos por variables que van tomando distintos valores.
+
+Declaraciones If: Este tipo de declaración se usa para hacer preguntas en la programación y según si la respuesta es verdadera o falsa poder hacer otras acciones.
+
+Valores Booleanos: Estos valores se usan para tomar decisiones, se siguen distintos caminos de acción segun sea true(verdadero), False(Falso).
+
