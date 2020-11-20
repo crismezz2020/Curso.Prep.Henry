@@ -166,3 +166,4 @@ La terminal te preguntará tu usuario y contraseña (En el caso de la contraseñ
 ```
 
 ¡Felicitaciones, acabas de subir tu primer git commit!
+Terminado!!!
