@@ -6,3 +6,12 @@
 	* Bucle `for…in`
 	* Notación de puntos vs notación de corchetes
 
+Objetos:Es una colección de propiedades(asociación de una clave con un valor "Key=Value"), es decir que es muy similar a un arreglo pero en lugar de tener índices numericos usa las propiedades. Pueden contener todo tipo de datos incluyendo hasta funciones.
+
+Propiedades: Vendrían a ser lo mismo que el indice en los arreglos pero con una asociación de una clave con un valor key=value
+
+Métodos: Se define como método cuando los objetos tienen entre sus datos una función
+
+Bucle for...in: Nos permite iterar en todos los valores de los objetos, similar a for que se usa en arreglos.
+
+Notación de puntos vs notación de corchetes: Existen 2 formas de representar los objetos Objeto.Propiedad o Objeto['Propiedad'] si bien son lo mismo, la de puntos es mas sencilla de escribir. Pero para recorrer objetos es mejor usar la de corchetes.
