@@ -1,0 +1,5 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`:
+* _Constructors_ (de Clases):Se define como si fuera una función común pero el nombre se coloca con la primer letra en mayuscula y se usa internamente el keyword this para referenciar internamente la propiedad que va a utilizar. Se usa también el parametro OR (||) para asignar un valor por defecto en caso que no se le haya pasado níngun valor para dicha propiedad. También se puede utilizar el parametro AND (&&) para averiguar si existe un objeto dado y evitar errores por falta de alguna propiedad. Luego por medio de la keyword (new) se invoca la funcion constructora para instanciar nuevos objetos..
+
